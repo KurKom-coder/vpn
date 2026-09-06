@@ -1,5 +1,5 @@
-kurkom.webhop.me
-kurkom.webhop.me
+kurkom.sytes.net
+kurkom.sytes.net
 0c204323/dda47bb3
 8.8.8.8
 https://dnsbunker.org/dns-query
