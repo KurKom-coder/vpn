@@ -1,7 +1,7 @@
 kurkom.sytes.net
-kurkom.sytes.net
+2.26.92.170
 
 8.8.8.8
-94.140.14.14
+https://dnsbunker.org/dns-query
 @newkurkom
 кубышка кубышке рознь
